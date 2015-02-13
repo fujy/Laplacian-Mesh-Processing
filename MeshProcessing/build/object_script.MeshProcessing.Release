@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\vertex.o
+./release\mesh.o
+./release\glwidget.o
+./release\meshbuilder.o
+./release\face.o
+./release\grid.o
+./release\lightsource.o
+./release\qrc_resources.o
+./release\moc_mainwindow.o
+./release\moc_glwidget.o
+);
